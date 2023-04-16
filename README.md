@@ -5,6 +5,6 @@ The Odin Project Assignment: Basic HTML Document with Ordered/Unordered lists ad
 Topic: Recipes that focuses on Adobo style cooking.
 * Chicken Adobo
 * Pork Adobo
-* Chick and Pork Adobo
+* Chicken and Pork Adobo
 
 More power to The Odin Project
